@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+TensorFlowLiteC in Pods
+TensorFlowLiteSwift in Pods, depends on:
+TensorFlowLiteC in Pods (explicit)
+Pods-ImageClassification in Pods, depends on:
+TensorFlowLiteC in Pods (explicit)
+TensorFlowLiteSwift in Pods (explicit)
